@@ -1,57 +1,57 @@
 #main{
   background-color: #BCAB79;
-  border: 20px solid #BCAB79;
   border-radius: 4px;
-  font-family: "Open Sans", sans-serif;
+  border: 20px solid #BCAB79;
   color: black;
+  font-family: "Open Sans", sans-serif;
 }
 #title{
-  text-align: center;
   font-size: 50px;
+  text-align: center;
   
 }
 h4 {
-  text-align: center;
   padding-bottom: 10px;
+  text-align: center;
 }
 
 #img-div{
   background-color: #DCE1DE;
-  text-align: center;
-  border-top: 100px solid #DCE1DE;
   border-bottom: 2px solid #DCE1DE;
   border-radius: 4px;
+  border-top: 100px solid #DCE1DE;
+  text-align: center;
 }
 #tribute-info{
+  left: 10%;
   line-height: 100px;
   position: relative;
-  left: 10%;
 }
 #quote{
-  text-align: center;
   padding-top: 50px
+  text-align: center;
 }
 #author{
   text-align: center;
 }
 #link-note{
-  text-align: center;
-   padding-top: 50px;
    font-weight:bold;
-  font-size: 20px
+   padding-top: 50px;
+  font-size: 20px;
+  text-align: center
 }
 ul{
   line-height: 40px;
 }
 #image {
-width: 100%;
+border-radius: 6px;
+display: block;
 height: auto;
-max-width: 625px;
 margin-left: auto;
 margin-right: auto;
-display: block;
+max-width: 625px;
 opacity: 0.8;
-border-radius: 6px;
+width: 100%;
 }
 #img-caption{
   padding: 10px;
