@@ -1,1 +1,1 @@
-#Using HTML and CSS, this is a very simple tribute page.
+Using HTML and CSS, this is a very simple tribute page.
